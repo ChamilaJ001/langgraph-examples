@@ -1,0 +1,26 @@
+# Python
+/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node.js
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+/dist/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
