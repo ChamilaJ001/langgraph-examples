@@ -1,0 +1,11 @@
+Your Conversation Log:
+You: Hi
+AI: Hello! How can I assist you today?
+
+You: My name is Chamila
+AI: Nice to meet you, Chamila! How can I help you today?
+
+You: Who am I>
+AI: You mentioned that your name is Chamila. If there's anything specific you'd like to share or discuss about yourself, feel free to let me know!
+
+End of Conversation
